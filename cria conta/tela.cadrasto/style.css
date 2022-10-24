@@ -20,7 +20,7 @@ label {
 
 .inputBox {
   border: 10px;
-  background-image: url(imagens/CutPaste_2022-09-14_19-22-41-390\ \(2\).png);
+  background-image: url(../../imagens/CutPaste_2022-09-14_19-22-41-390\ \(2\).png);
   background-repeat: repeat;
   width: 420px;
   height: 850px;
@@ -58,13 +58,13 @@ input:active {
   transform: translateY(-50%);
   width: 30px;
   height: 31px;
-  background: url(imagens/eye-slash.png);
+  background: url(../../imagens/eye-slash.png);
   background-size: cover;
   cursor: pointer;
 }
 
 #toggle.hide {
-  background: url(imagens/icon\ frame.png);
+  background: url(../../imagens/icon\ frame.png);
   background-size: cover;
   width: 30px;
   height: 31px;

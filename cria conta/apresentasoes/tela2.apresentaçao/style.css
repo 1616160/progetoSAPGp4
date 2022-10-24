@@ -1,0 +1,41 @@
+.body {
+    background-color: aliceblue;
+  
+  }
+  
+
+  .slider{
+margin: 0 auto;
+width: 800px;
+height: 300px;
+overflow: hidden;
+  }
+  
+.eslaides{
+  width: 400%;
+  height: 400px;
+  display: flex;
+}
+.eslaides input{
+  display: none;
+}
+.slide{
+  width: 25%;
+  position: relative;
+}
+.slide img{
+  width: 300px;
+}
+.manual-navegations{
+  position: absolute;
+  width: 800px;
+
+  display: flex;
+ 
+}
+.manual2-btn{
+  border: 2px rgb(0, 0, 0);
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
